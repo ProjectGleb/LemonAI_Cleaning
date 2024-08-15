@@ -1,2 +1,3 @@
 # LemonAI_Cleaning
-Lemon AI Task
+Hey Felix! 
+Thanks for the time today. Here is my task submission.
